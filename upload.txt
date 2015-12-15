@@ -4,4 +4,6 @@ Add line 2 to test commit core editor.
 Edit master from github master
 
 Edit from hello9.
+Edit2 from hello2.
+
 
